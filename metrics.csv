@@ -1,0 +1,127 @@
+,Input,Type,avg_score,entailment_score,time_taken
+0,Hello,Full Dataset,21.80144986,0.974169552,361.8178439
+1,Hello,Random search with 500 iterations,22.472,0.958941221,36.03309393
+2,Hello,Full Dataset with Threshold at 50,21.80144986,0.974169552,361.3583484
+0,How are you?,Full Dataset,6.820579944,0.984369755,404.1291888
+1,How are you?,Random search with 500 iterations,7.044,0.984369755,40.09566951
+2,How are you?,Full Dataset with Threshold at 50,6.820579944,0.984369755,419.6110592
+0,Are you new to this game?,Full Dataset,4.316753927,0.910565138,435.8228343
+1,Are you new to this game?,Random search with 500 iterations,4.546,0.728298903,46.23396015
+2,Are you new to this game?,Full Dataset with Threshold at 50,4.316753927,0.910565138,429.3171437
+3,That was a good move,Full Dataset,15.1037052,0.992605925,407.368871
+4,That was a good move,Random search with 500 iterations,16.444,0.95618856,40.67219853
+5,That was a good move,Full Dataset with Threshold at 50,15.1037052,0.992605925,411.9176359
+6,Keep going,Full Dataset,10.39911398,0.992605925,391.0519769
+7,Keep going,Random search with 500 iterations,10.884,0.71875906,40.23707557
+8,Keep going,Full Dataset with Threshold at 50,10.39911398,0.988898098,385.2901387
+9,Nice play,Full Dataset,17.64579138,0.988898098,377.0489793
+10,Nice play,Random search with 500 iterations,20.084,0.95456475,37.28397632
+11,Nice play,Full Dataset with Threshold at 50,17.64579138,0.95456475,373.1755557
+12,You rock,Full Dataset,18.15424889,0.95456475,377.0944557
+13,You rock,Random search with 500 iterations,17.264,0.790364504,37.67951179
+14,You rock,Full Dataset with Threshold at 50,18.15424889,0.951798558,423.6624308
+0,This game sucks,Full Dataset,5.671365284,0.930516779,464.0635734
+1,This game sucks,Random search with 500 iterations,5.788,0.731729925,53.36312413
+2,This game sucks,Full Dataset with Threshold at 50,5.671365284,0.930516779,503.2564466
+0,I suck at this game,Full Dataset,8.468183649,0.982443452,536.2188888
+1,I suck at this game,Random search with 500 iterations,9.362,0.982443452,53.49167514
+2,I suck at this game,Full Dataset with Threshold at 50,8.468183649,0.982443452,547.5018764
+0,What do I do?,Full Dataset,6.466371325,0.982443452,547.069262
+1,What do I do?,Random search with 500 iterations,6.428,0.796376109,54.00926971
+2,What do I do?,Full Dataset with Threshold at 50,6.466371325,0.911482036,521.4780865
+0,Hello there,Full Dataset,23.23942811,0.978730738,481.8893938
+1,Hello there,Random search with 500 iterations,25.668,0.978730738,50.4647572
+2,Hello there,Full Dataset with Threshold at 50,23.23942811,0.978730738,499.7277722
+0,I am going to lose,Full Dataset,3.944019331,0.978730738,542.3748443
+1,I am going to lose,Random search with 500 iterations,3.708,0.936882913,53.20249152
+2,I am going to lose,Full Dataset with Threshold at 50,3.944019331,0.959268332,556.287236
+0,Where do you live?,Full Dataset,6.743656867,0.959268332,483.9567509
+1,Where do you live?,Random search with 500 iterations,6.712,0.829859138,47.16134882
+2,Where do you live?,Full Dataset with Threshold at 50,6.743656867,0.829859138,435.3784449
+0,That is bold,Full Dataset,14.08336689,0.930622995,508.5678601
+1,That is bold,Random search with 500 iterations,14.294,0.776956916,53.83707047
+2,That is bold,Full Dataset with Threshold at 50,14.08336689,0.930622995,540.4217381
+0,Nice to meet you,Full Dataset,21.03664921,0.983976483,519.5515535
+1,Nice to meet you,Random search with 500 iterations,22.86,0.8887977,54.16216803
+2,Nice to meet you,Full Dataset with Threshold at 50,21.03664921,0.983976483,479.6326482
+0,Cheers,Full Dataset,21.36709625,0.983976483,402.6952958
+1,Cheers,Random search with 500 iterations,21.176,0.911156535,41.11972928
+2,Cheers,Full Dataset with Threshold at 50,21.36709625,0.93920511,388.617377
+0,This game is the best,Full Dataset,7.559001208,0.967917502,414.8710682
+1,This game is the best,Random search with 500 iterations,7.514,0.967360616,41.70715308
+2,This game is the best,Full Dataset with Threshold at 50,7.559001208,0.967917502,430.4891222
+0,Sorry for that,Full Dataset,3.059605316,0.978162944,420.8675561
+1,Sorry for that,Random search with 500 iterations,2.982,0.95289886,42.99321342
+2,Sorry for that,Full Dataset with Threshold at 50,3.059605316,0.978162944,415.6258581
+0,Okay,Full Dataset,25.14015304,0.978162944,408.686183
+1,Okay,Random search with 500 iterations,24.558,0.945142031,39.734061
+2,Okay,Full Dataset with Threshold at 50,25.14015304,0.965278387,389.9326351
+0,All right,Full Dataset,22.95811518,0.975847423,396.3058777
+1,All right,Random search with 500 iterations,23.714,0.970287144,42.54377699
+2,All right,Full Dataset with Threshold at 50,22.95811518,0.975847423,407.4730387
+0,It's your turn,Full Dataset,15.05336287,0.991627574,442.5085261
+1,It's your turn,Random search with 500 iterations,15.898,0.98981303,41.37173009
+2,It's your turn,Full Dataset with Threshold at 50,15.05336287,0.991627574,494.121778
+0,Got it,Full Dataset,20.05980669,0.991627574,488.2355814
+1,Got it,Random search with 500 iterations,19.192,0.944525719,48.72228789
+2,Got it,Full Dataset with Threshold at 50,20.05980669,0.981183171,490.4786298
+0,Good,Full Dataset,22.86508256,0.981183171,474.1090171
+1,Good,Random search with 500 iterations,21.362,0.955194712,46.06265545
+2,Good,Full Dataset with Threshold at 50,22.86508256,0.957993209,465.9344382
+0,Hmm,Full Dataset,15.85481273,0.97254169,461.1546066
+1,Hmm,Random search with 500 iterations,16.772,0.933462679,32.68838453
+2,Hmm,Full Dataset with Threshold at 50,15.85481273,0.97254169,455.3762653
+0,What are the game instructions?,Full Dataset,4.219492549,0.97254169,522.6051056
+1,What are the game instructions?,Random search with 500 iterations,4.192,0.596266687,56.54291463
+2,What are the game instructions?,Full Dataset with Threshold at 50,4.219492549,0.871810138,521.4467375
+0,Nice play,Full Dataset,17.64579138,0.95456475,387.1491992
+1,Nice play,Random search with 500 iterations,18.098,0.902293205,36.54298949
+2,Nice play,Full Dataset with Threshold at 50,17.64579138,0.95456475,805.9952919
+0,yeah,Full Dataset,20.85380588,0.97835058,479.2441273
+1,yeah,Random search with 500 iterations,19.09,0.924883068,48.67140818
+2,yeah,Full Dataset with Threshold at 50,20.85380588,0.97835058,389.7537444
+0,really?,Full Dataset,6.054571083366895,0.9783505797386169,364.66578578948975
+1,really?,Random search with 500 iterations,5.976,0.8526594042778015,36.33336353302002
+2,really?,Full Dataset with Threshold at 50,6.054571083366895,0.9514742493629456,1547.6191909313202
+0,You can try to win,Full Dataset,5.484695932339911,0.9611697196960449,405.98855447769165
+1,You can try to win,Random search with 500 iterations,4.204,0.5253846049308777,41.06872248649597
+2,You can try to win,Full Dataset with Threshold at 50,5.484695932339911,0.9611697196960449,397.180392742157
+0,Grow up,Full Dataset,21.706403544099878,0.9649022221565247,380.2833671569824
+1,Grow up,Random search with 500 iterations,20.564,0.9217274188995361,38.64839720726013
+2,Grow up,Full Dataset with Threshold at 50,21.706403544099878,0.9649022221565247,379.8121027946472
+0,Now you know my trick,Full Dataset,6.452275473217882,0.9705302119255066,399.75566244125366
+1,Now you know my trick,Random search with 500 iterations,5.966,0.8506709337234497,39.48955965042114
+2,Now you know my trick,Full Dataset with Threshold at 50,6.452275473217882,0.9705302119255066,399.1567180156708
+0,I see your pattern,Full Dataset,7.747684252919855,0.9705302119255066,390.8204925060272
+1,I see your pattern,Random search with 500 iterations,8.526,0.9118704199790955,38.492045164108276
+2,I see your pattern,Full Dataset with Threshold at 50,7.747684252919855,0.9518653154373169,413.88129210472107
+0,You move quick,Full Dataset,7.862062021747886,0.9765299558639526,388.5308768749237
+1,You move quick,Random search with 500 iterations,7.004,0.7776971459388733,38.37460160255432
+2,You move quick,Full Dataset with Threshold at 50,7.862062021747886,0.9765299558639526,429.1264925003052
+0,Awesome,Full Dataset,19.075110753121223,0.9765299558639526,415.42703437805176
+1,Awesome,Random search with 500 iterations,18.884,0.9543575048446655,42.119675159454346
+2,Awesome,Full Dataset with Threshold at 50,19.075110753121223,0.9758111238479614,433.16391611099243
+0,My bad,Full Dataset,6.534836890857833,0.9758111238479614,432.46667647361755
+1,My bad,Random search with 500 iterations,7.334,0.9617961645126343,39.727861166000366
+2,My bad,Full Dataset with Threshold at 50,6.534836890857833,0.9704354405403137,373.11763286590576
+0,Here you go,Full Dataset,24.29581151832461,0.9896448850631714,382.7368493080139
+1,Here you go,Random search with 500 iterations,23.84,0.9896448850631714,39.077598333358765
+2,Here you go,Full Dataset with Threshold at 50,24.29581151832461,0.9896448850631714,383.76191115379333
+0,I'm great. How about you?,Full Dataset,11.895892066049134,0.9916900396347046,479.1003165245056
+1,I'm great. How about you?,Random search with 500 iterations,12.28,0.9871048927307129,46.77906274795532
+2,I'm great. How about you?,Full Dataset with Threshold at 50,11.895892066049134,0.9916900396347046,487.6343264579773
+0,Stressed out?,Full Dataset,6.342327829238824,0.9916900396347046,485.1630733013153
+1,Stressed out?,Random search with 500 iterations,5.978,0.6888670325279236,48.969011306762695
+2,Stressed out?,Full Dataset with Threshold at 50,6.342327829238824,0.8405555486679077,485.471004486084
+0,Start thinking ,Full Dataset,12.556584776480065,0.9287684559822083,474.37754130363464
+1,Start thinking ,Random search with 500 iterations,12.97,0.7770287990570068,48.699326038360596
+2,Start thinking ,Full Dataset with Threshold at 50,12.556584776480065,0.9287684559822083,478.7361855506897
+0,Anything for you,Full Dataset,13.763189689891261,0.9287684559822083,474.1564428806305
+1,Anything for you,Random search with 500 iterations,12.876,0.8363852500915527,48.65967559814453
+2,Anything for you,Full Dataset with Threshold at 50,13.763189689891261,0.9172356724739075,473.8282425403595
+0,"Nervous, arent you?",Full Dataset,6.6818364881192105,0.9172356724739075,493.345406293869
+1,"Nervous, arent you?",Random search with 500 iterations,6.392,0.8185583353042603,48.22603726387024
+2,"Nervous, arent you?",Full Dataset with Threshold at 50,6.6818364881192105,0.8936910629272461,470.94500827789307
+0,More rounds to go,Full Dataset,7.55155054369714,0.9749168753623962,759.1355092525482
+1,More rounds to go,Random search with 500 iterations,7.198,0.7797456979751587,43.974072217941284
+2,More rounds to go,Full Dataset with Threshold at 50,7.55155054369714,0.9749168753623962,436.4522280693054
