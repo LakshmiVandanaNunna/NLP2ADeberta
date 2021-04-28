@@ -59,7 +59,7 @@ from torch.nn.utils.rnn import pad_sequence
 import pickle
 import os
 from transformers import DebertaTokenizer, DebertaForSequenceClassification
-from transformers import AutoTokenizer, AutoModelForSequenceClassification
+#from transformers import AutoTokenizer, AutoModelForSequenceClassification
 #from transformers import AlbertTokenizer
 
 class MNLIDataDeberta(Dataset):
